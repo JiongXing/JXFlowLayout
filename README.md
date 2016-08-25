@@ -1,5 +1,4 @@
 #JXFlowLayout
-##UICollectionView的一个流式布局
 ###由于UICollectionViewFlowLayout在同一行时会把元素作两端对齐，故我写了一个非对齐的布局
 ![JXStackView.gif](https://github.com/JiongXing/JXFlowLayout/raw/master/screenshots/JXFlowLayout.gif)
 - 简单使用
