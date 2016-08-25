@@ -14,6 +14,7 @@
 {
     if (self = [super initWithFrame:frame]) {
         UILabel *label = [[UILabel alloc] initWithFrame:self.bounds];
+        label.backgroundColor = [UIColor lightGrayColor];
         label.font = [UIFont systemFontOfSize:15];
         label.textColor = [UIColor darkTextColor];
         label.textAlignment = NSTextAlignmentCenter;

@@ -44,7 +44,6 @@
     return 2;
 }
 
-//每个section中有32个item
 - (NSInteger)collectionView:(UICollectionView *)collectionView numberOfItemsInSection:(NSInteger)section
 {
     return  20;
